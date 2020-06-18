@@ -1,0 +1,4 @@
+annotations	plugins/GraPhlAn/example/annot.txt
+tree	plugins/GraPhlAn/example/hmptree.xml
+dpi	150
+size	14
