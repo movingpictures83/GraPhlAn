@@ -2,7 +2,8 @@
 # Language: C++
 # Input: TXT
 # Output: PREFIX
-# Tested with: PluMA 1.0, GCC 4.8.4
+# Tested with: PluMA 1.1, GCC 4.8.4
+# Dependency: GraPhlAn 0.9.7
 
 Annotate and create an image of a phylogenetic tree using GraPhlAn (Asnicar et al, 2015).
 
